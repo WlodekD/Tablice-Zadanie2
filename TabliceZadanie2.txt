@@ -34,7 +34,7 @@ namespace Zad_4._3
                 } 
             }
             Console.WriteLine("Najmniejsza watosc tablicy to: {0}", min);
-            Console.WriteLine("Pozycja namniejszej wartoœc to: {0}", Array.IndexOf(tab1, -5));
+            Console.WriteLine("Pozycja namniejszej wartosci to: {0}", Array.IndexOf(tab1, -5));
             Console.WriteLine();
 
             int suma = 0;
@@ -61,7 +61,7 @@ namespace Zad_4._3
                 
                 sumaW = sumaW + ileW;
             }
-            Console.WriteLine("W tab1 znajduj¹ siê {0} wartoœci dodatnie.", sumaW);
+            Console.WriteLine("W tab1 znajduja sie {0} wartosci dodatnie.", sumaW);
             Console.ReadKey();
         }
     }
